@@ -36,6 +36,9 @@ npm run dev will start client and server both concurrently.
 Your application will be running at `http://localhost:3000`.
 
 
+#### Node Version
+node 12.13.0
+
 ##### Backend
 
 Node js is used as backend which has API end points.
@@ -44,4 +47,8 @@ Node js is used as backend which has API end points.
 Book details are stored in localFile names localDB.json
 It should have intial structure as-
 {"bookList":[]}
+
+#### Debounce
+To avoid filtering on every key press, implemeneted debounce.
+Debounce is more useful for server side search.
 
