@@ -16,7 +16,7 @@ This app contains an granular set of components built on -
 * [Search Book details- works on all the table columns]
 
 
-#### Native Application Development
+#### How to run the Application?
 
 Build and tested on Node 12.3.0 version.
 
