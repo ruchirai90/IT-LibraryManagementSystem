@@ -2,7 +2,7 @@
 
 Library Management system allows user to add, view and update book details in libary.
 
-This app contains an granular set of components built on - 
+This app contains granular set of components built on - 
 
 * [React]
 * [Redux]
