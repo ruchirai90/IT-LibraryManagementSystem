@@ -44,11 +44,11 @@ node 12.13.0
 Node js is used as backend which has API end points.
 
 #### Storage
-Book details are stored in localFile names localDB.json
+Book details are stored in localFile name localDB.json
 It should have intial structure as-
 {"bookList":[]}
 
 #### Debounce
-To avoid filtering on every key press, implemeneted debounce.
+To avoid filtering on every key press, we have implemented debounce.
 Debounce is more useful for server side search.
 
