@@ -1,8 +1,8 @@
 ## Technology Stack Details
 
-Library Management system allows user to add, view and update book detaila in libary.
+Library Management system allows user to add, view and update book details in libary.
 
-This app contains an opinionated set of components for modern web development, including:
+This app contains an granular set of components built on - 
 
 * [React]
 * [Redux]
