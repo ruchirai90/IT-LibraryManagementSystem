@@ -18,7 +18,7 @@ This app contains an granular set of components built on -
 
 #### Native Application Development
 
-Install the latest [Node.js](https://nodejs.org/en/download/) 10+ LTS version.
+Build on Node 12.3.0 version.
 
 Once the Node toolchain has been installed, you can download the project dependencies with:
 
