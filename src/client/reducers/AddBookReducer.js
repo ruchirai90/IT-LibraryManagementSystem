@@ -35,11 +35,11 @@ const addBookReducer = (state = intialState, action) => {
 
         if (action.value) {
             let filteredArray = state.actualList.filter((item) => {
-                return (item.name.includes(action.value) ||
-                    item.description.includes(action.value) ||
-                    item.category.includes(action.value) ||
-                    item.author.includes(action.value) ||
-                    item.price.includes(action.value)
+                return (item.name.toLowerCase().includes(action.value.toLowerCase()) ||
+                    item.description.toLowerCase().includes(action.value.toLowerCase()) ||
+                    item.category.toLowerCase().includes(action.value.toLowerCase()) ||
+                    item.author.toLowerCase().includes(action.value.toLowerCase()) ||
+                    item.price.toLowerCase().includes(action.value.toLowerCase())
                 )
             });
             return {
