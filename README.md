@@ -2,13 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-UI stack - REACT JS
+React
+Redux
+Nodejs
 
-Store Management - REDUX
-
-Backend - Nodejs
-
-##How to run the application ?
+## How to run the application ?
 
 Clone the reporsitory
 run npm install 
