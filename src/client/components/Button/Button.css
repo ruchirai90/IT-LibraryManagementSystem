@@ -1,0 +1,19 @@
+.commonButton{
+    min-width: 80px;
+    height: 30px;
+    font-size: 14px;
+    border-radius: 3px;
+}
+.actionButton{
+    background: #1976D2;
+    color: #fff;
+    border: 1px #448AFF;
+    cursor: pointer; 
+}
+
+disableButton {
+    background: grey;
+    color: #fff;
+    border: 1px grey;
+
+}

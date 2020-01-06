@@ -1,0 +1,19 @@
+.tableHeader {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #B3E5FC;
+    padding: 4px 10px;
+    border-bottom: 1px solid #9ac6db;
+}
+.tableHeader button{
+    margin-right: 10px;
+}
+.noDataClass {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+    margin-top: 7px;
+    font-weight: 400;
+
+}
